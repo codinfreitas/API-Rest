@@ -2,11 +2,8 @@ Desenvolvimento CRUD com tratamento de exceção utilizando handler.
 
 Tecnologias utilizadas: <br>
 Linguagem de programação: java <br>
-Frameworks: springboot e hibernate <br>
+Frameworks: springboot, spring data JPA, spring validation <br>
 Database: H2 (banco de memória) <br>
-obs.: foi utilizado uma annotation do JPA <br> 
-(sequence p/ gerar id) no momento que se <br>
-usa o POST. <br>
 
 Métodos do CRUD: <br>
 POST - inserir nome e email na tabela <br>
