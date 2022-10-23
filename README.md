@@ -9,8 +9,8 @@ Métodos do CRUD: <br>
 POST - inserir nome e email na tabela <br>
 GET - pegar informações na tabela <br>
 DELETE - deletar informações na tabela <br>
-PUT - atualização de todas as informações (através de um determinado ID) <br>
-PATCH - atualização aparcial das informações (atráves de um determinado ID) <br>
+PUT - atualização de todas as informações (através de um determinado id) <br>
+PATCH - atualização parcial das informações (atráves de um determinado id) <br>
 
 Como utilizar: <br>
 1° baixe uma IDEA java. <br>
@@ -22,7 +22,7 @@ Como utilizar: <br>
 7° use o POST para inserir algumas informações na tabela. <br>
 8° divirta-se! <br>
 
-URI para colocar no POSTMAN: http://localhost:8080/users/1 <br>
+URI para colocar no POSTMAN: http://localhost:8080/users/id_aqui <br>
 obs.: como eu criei apenas um metodos de cada não ouve necessidade de criar caminhos diferentes <br>
 para URI e como todos os métodos (exceto POSTMAN) usam o ID como base para fazer sua determinada <br>
 função a URI é igual para todas as operações criadas neste desenvolvimento. 
